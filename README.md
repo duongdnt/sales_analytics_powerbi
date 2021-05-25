@@ -1,1 +1,1 @@
-# sales_analytics_powerbi
+See pdf for a model sales analytics dashboard made with Power BI
